@@ -1,0 +1,11 @@
+body{width: 100%;margin: 0;padding: 0;}
+.login-backdrop{width: 100%;height: 100vh;background: royalblue;padding: 10px;}
+.login-box{width: 25%;height: 400px;background: white;margin: 0 auto;margin-top: 100px;padding: 20px;box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);}
+.reg-box{width: 35%;height: 600px;background: white;margin: 0 auto;margin-top: 50px;padding: 20px;box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);}
+label{font-size: 11px;}
+.login-box h3{color: royalblue;}
+.dashboard{width: 100%;height: 100%; background: gainsboro;}
+.azure-nav{width: 20%;height: 100%; background: white;float: left;padding: 10px;}
+.azure-content{width: 80%;height: 100p%; background: white;float: left}
+.nav-toggle{width: 100%;height: 50px;background: royalblue;padding: 10px;}
+.nav-toggle span{color: white;}

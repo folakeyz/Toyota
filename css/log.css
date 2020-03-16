@@ -1,0 +1,13 @@
+.log{
+    width: 100%;
+    height: 580px;
+    padding: 20px;
+}
+.log table{
+    font-size: 13px;
+}
+.input-group-append span{
+    background: None;
+    Color: white;
+    border: None;
+}

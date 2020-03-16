@@ -1,0 +1,78 @@
+
+body, html {
+  height: 100%;
+ /* font-family: Arial, Helvetica, sans-serif;*/
+}
+
+* {
+   -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.bg-img {
+  /* The image used */
+  background-image: url("../img/Image 1.png");
+
+  min-height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+/* Add styles to the form container */
+
+
+.blockitems {
+  position: absolute;
+  right: 15%;
+  width: 1200px;
+  height: 500px;
+  padding-left: 40px;
+  padding-right: 40px;
+  top:20%;
+}
+
+.welcome-text {
+ position: absolute;
+  top: 15%;
+  left: 100px;
+  background: rgba(63, 135, 89, 0.8);
+  color: white;
+  padding-left: 150px;
+  padding-right: 20px;
+  width: 600px;
+ height: 250px;
+ padding-top: 50px;
+
+
+}
+
+.welform-image {
+ 		margin-left: 25%;
+}
+
+
+
+.welcome-form {
+  position: absolute;
+  right: 10%;
+  margin: 20px;
+  width: 360px;
+  padding: 16px;
+  background-color: white;
+  height: 450px;
+border-radius: 5px;
+ top: -15%;
+
+}
+
+/* Full-width input fields */
+.btn  {
+  width: 100%;
+}
+
+

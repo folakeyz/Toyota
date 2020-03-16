@@ -1,0 +1,29 @@
+body{width: 100%;margin: 0;padding: 0;font-family: 'Roboto', 'san-serif';}
+.nibss{width:100%;height: 100vh;background: white; }
+.nibss-sidebar{width:15%;height: 100vh;background: rgba(52,73,94,1);float: left }
+.username{width:100%;height: 100px;background: rgba(100,184,112,1);}
+.links{width: 100%;height: 300px;padding: 10px;}
+.links a{width: 100%;line-height: 40px;float: left;color: white;margin-bottom: 20px;text-decoration: none;text-transform: uppercase;font-size: 13px;}
+.links a i{font-size: 15px;}
+.nibss-content{width:85%;height: 100vh;float: left }
+.top-content{width: 100%;height: 100px;background: whit;box-shadow:0 5px 3px 0 rgba(150,150,150,.14),0 5px 5px 0 rgba(150,150,150,.19);}
+.bottom-content{width: 100%;height:570px;background: whitesmoke;padding: 35px;}
+.dash-content{width: 100%;height:100px;background:white;}
+.top-info{width: 80%;height: 100px;float: left;padding-left: 50px;padding-right: 20px;}
+.logo{width: 20%;height: 100px;float: right;padding: 20px;}
+.logo img{width: 70%;}
+.info-one{width: 100%;height: 70px;}
+.info-two{width: 100%;height: 30px;}
+.info-two a{color: black;text-transform: uppercase;font-size: 13px;margin-right: 40px;text-decoration: none;font-weight: 600;}
+.info-two a:hover{border-bottom: 4px solid green;color: green}
+.guest-count{width: 100%;height: 150px;}
+.count{width: 23%;height: 120px;margin-right: 20px;background: white;float: left;border-radius: 10px;box-shadow:0 5px 3px 0 rgba(150,150,150,.14),0 5px 5px 0 rgba(150,150,150,.19);padding: 10px;}
+.count p span{font-size: 30px;margin-bottom: 10px;}
+.fa-plus{color: crimson;}
+.fa-life-ring{color: green;}
+.fa-paper-plane{color:royalblue;}
+.fa-calendar-alt{color:green;}
+.guest-chart{width: 100%;height:370px;}
+.chart{width: 65%;height: 370px;margin-right: 50px;float: left;}
+.recent{width: 30%;height:370px;background: white;float: left;}
+.recent-head{width: 100%;height: 50px;background: rgba(100,184,112,1);padding:15px;color: white;}
